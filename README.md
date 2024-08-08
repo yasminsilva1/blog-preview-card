@@ -35,8 +35,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:
+  [GitHub](https://github.com/yasminsilva1/blog-preview-card)
+- Live Site URL:
+  [blog-preview-card](https://blog-preview-card-yasminsilva1s-projects.vercel.app/)
 
 ## My process
 
